@@ -30,7 +30,21 @@
         </div>
     </header>
     <nav>
-        
+        <ul>
+            <li><a href="#">Electronics</a></li>
+            <li><a href="#">Men's Fashion</a></li>
+            <li><a href="#">Women's Fashion</a></li>
+            <li><a href="#">Kids's Fashion</a></li>
+            <li><a href="#">Home & Kitchen</a></li>
+            <li><a href="#">Beauty & Fragrance</a></li>
+            <li><a href="#">Baby</a></li>
+            <li><a href="#">Toys</a></li>
+            <li><a href="#">Sports</a></li>
+        </ul>
+        <div class="noon-one">
+            <span><i> noon one</i></span>
+            <span> TRY FREE</span>
+        </div>
     </nav>
 </body>
 </html>
